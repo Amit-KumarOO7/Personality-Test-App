@@ -1,4 +1,3 @@
-import 'package:Quiz_App/result.dart';
 import 'package:flutter/material.dart';
 
 import './quiz.dart';
