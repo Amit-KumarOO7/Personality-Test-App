@@ -1,6 +1,6 @@
 # Quiz
 
-A new Flutter project.
+A basic personality test made using flutter framework, with scores people depending on the various choices the mades in the quiz
 
 ## Getting Started
 
